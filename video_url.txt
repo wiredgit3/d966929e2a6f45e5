@@ -1,0 +1,5 @@
+Player URL:
+https://wiredgit3.github.io/player/?list=https://raw.githubusercontent.com/wiredgit3/d966929e2a6f45e5/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/wiredgit3/d966929e2a6f45e5/refs/heads/master/github_master.m3u8
